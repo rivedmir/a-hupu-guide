@@ -1,2 +1,14 @@
 # a-hupu-guide
-HTML page archive and documentation
+
+页面文件归档说明
+
+这里集中保存独立页面文件，便于按仓库查看发布记录。
+
+## 页面保存
+
+- HTML 文件按任务生成
+- README 用于记录仓库用途
+
+## 任务说明
+
+页面会按发布任务逐步生成，仓库仅保存最终文件。
